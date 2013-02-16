@@ -2,7 +2,10 @@
 <head>
 <Title> 123123123123123123123 </Title>
 </head>
-<Body>
-<Marquee> <font size="30" color="Green">МОЙ ПЕРВЫЙ САЙТ </font></Marquee>
+<Body bgcolor="#00FFFF">
+<p align="center"> <h1><Marquee> <font size= "30"color="Green">МОЙ ПЕРВЫЙ САЙТ </font></Marquee> </h1> </p>
+<p align="center"><font size= "30"color="#FF00FF">МОЙ ПЕРВЫЙ САЙТ </font> 
+
+</p>
 </Body>
 </HTML>
